@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Francisco Nava Villegas</h1>
-<h3 align="center">I'm computer engineering students</h3>
+<h3 align="center">I'm VR Developer && game programer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
